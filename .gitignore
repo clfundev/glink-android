@@ -1,0 +1,24 @@
+# Gradle files
+.gradle/
+build/
+
+# Android Studio generated
+captures/
+.externalNativeBuild
+.cxx
+
+# Android Profiling
+*.hprof
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Keystore files
+*.jks
+
+# Others
+.DS_Store
